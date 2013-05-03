@@ -8,8 +8,6 @@
 		}
 	],
 	"autoload": {
-		"psr-0": {
-		   "Diff": "lib/"
-		}
+		"classmap": ["lib/"]
 	}
 }
